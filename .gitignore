@@ -1,3 +1,5 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
 # Logs
 logs
 *.log
@@ -29,8 +31,13 @@ bower_components
 # node-waf configuration
 .lock-wscript
 
+# production
+# /build
+/dist
+
 # Compiled binary addons (https://nodejs.org/api/addons.html)
-build/Release
+# build/Release
+/dist/Release
 
 # Dependency directories
 node_modules/
@@ -59,3 +66,10 @@ typings/
 
 # next.js build output
 .next
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local

@@ -1,6 +1,6 @@
-# Awesome-React-Airbnb-Skeleton
+# Awesome-React-Redux-Skeleton
 
-### ✈️ simple react skeleton with airbnb coding convention set (React16, Webpack4, Babel7, prop-types)👍🏻
+### Redux skeleton with react and airbnb env (React16, Webpack4, Latest Babel(7), prop-types) 🍭
 
 ## Demo
 

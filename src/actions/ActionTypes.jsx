@@ -1,0 +1,3 @@
+export const SAMPLE_ACTION1 = 'SAMPLE_ACTION1';
+export const SAMPLE_ACTION2 = 'SAMPLE_ACTION2';
+export const CHANGE_COLOR = 'CHANGE_COLOR';

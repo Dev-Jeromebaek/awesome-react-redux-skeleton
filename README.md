@@ -1,5 +1,7 @@
 # Awesome-React-Redux-Skeleton
 
+## 업데이트 중입니다
+
 ### Redux skeleton with react and airbnb env (React16, Webpack4, Latest Babel(7), prop-types) 🍭
 
 ## Demo
